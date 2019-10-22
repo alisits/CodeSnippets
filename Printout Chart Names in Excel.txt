@@ -1,0 +1,14 @@
+Sub ChartNames()
+Dim SheetName
+Dim mysheet As Worksheet
+Dim chr As ChartObject
+
+SheetName = "budget"
+Set mysheet = Sheets(SheetName)
+
+For Each chr In mysheet.ChartObjects
+    MsgBox (chr.Name)
+Next
+    
+    
+End Sub
