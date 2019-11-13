@@ -4,9 +4,8 @@ Public R, L, grades As Integer
 Sub Macro3()
 '
 ' Macro for creation of ideal parison bcs file. To be used in B-Sim
-'Alicia Garcia
-'TI Automotive Rastatt
-'algarcia@de.tiauto.com
+
+
 
 
 Dim Fullfilename

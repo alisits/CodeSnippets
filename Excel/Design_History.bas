@@ -1,5 +1,5 @@
 Attribute VB_Name = "Design_History"
-'Module for Design History creation20
+'Module for Design History creation
 
 'Sub to create a ppt out of the excel list with the completed points
 'would be good to use TI template

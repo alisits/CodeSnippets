@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module1"
    Public Function IsoWeekNum(d1 As Date) As Integer
-        ' Provided by Daniel Maher.
+        
            'd1=valor de cada elda de AG
               
            Dim d2 As Long

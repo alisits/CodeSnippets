@@ -4,7 +4,7 @@ Sub Macro1()
 ' Macro1 Macro
 'Creates the original parison taken imput values from txt file
 'Alicia Garcia
-'algarcia@de.tiauto.com
+
 
 Dim Fullfilename
 Dim book1, book2 As Workbook

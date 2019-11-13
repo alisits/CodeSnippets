@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module1"
-Sub SaveAsTXT()
 
+Sub SaveAsTXT()
 
 Dim Mypath, myname As String
 
